@@ -24,7 +24,7 @@ public class SampleActivity extends ActionBarActivity {
     private ListView mDrawerList;
     ViewPager pager;
     private String titles[] = new String[]{"Trending", "News", "Traffic Jam", "Event"
-            , "Special Promo", "Sample Tab 6", "Sample Tab 7", "Sample Tab 8"};
+            , "Special Promo"};
     private Toolbar toolbar;
 
     SlidingTabLayout slidingTabLayout;
